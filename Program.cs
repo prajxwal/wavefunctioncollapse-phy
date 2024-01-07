@@ -21,8 +21,8 @@ static class Program
 
             bool isOverlapping = xelem.Name == "overlapping";
             int size = xelem.Get("size", isOverlapping ? 48 : 24);
-            int width = xelem.Get("width", size);
-            int height = xelem.Get("height", size);
+            int width = xelem.Get("width", 256);
+            int height = xelem.Get("height", 64);
             bool periodic = xelem.Get("periodic", false);
             string heuristicString = xelem.Get<string>("heuristic");
             var heuristic = heuristicString == "Scanline" ? Model.Heuristic.Scanline : (heuristicString == "MRV" ? Model.Heuristic.MRV : Model.Heuristic.Entropy);

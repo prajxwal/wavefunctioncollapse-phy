@@ -5,5 +5,4 @@
   <overlapping name="Flowers" N="3" symmetry="2" ground="True" periodic="True"/>
   <simpletiled name="Circuit" subset="Turnless" size="7" periodic="True" textOutput="True"/>
   <simpletiled name="Circuit" subset="Turnless" size="34" periodic="True" screenshots="3"/>
-
 </samples>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mxsid\\Desktop\\WaveFunctionCollapse-master\\WaveFunctionCollapse.csproj": {}
+    "C:\\Users\\mxsid\\Desktop\\Misc\\College\\Physics\\Physics_project\\WFC\\WaveFunctionCollapse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mxsid\\Desktop\\WaveFunctionCollapse-master\\WaveFunctionCollapse.csproj": {
+    "C:\\Users\\mxsid\\Desktop\\Misc\\College\\Physics\\Physics_project\\WFC\\WaveFunctionCollapse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mxsid\\Desktop\\WaveFunctionCollapse-master\\WaveFunctionCollapse.csproj",
+        "projectUniqueName": "C:\\Users\\mxsid\\Desktop\\Misc\\College\\Physics\\Physics_project\\WFC\\WaveFunctionCollapse.csproj",
         "projectName": "WaveFunctionCollapse",
-        "projectPath": "C:\\Users\\mxsid\\Desktop\\WaveFunctionCollapse-master\\WaveFunctionCollapse.csproj",
+        "projectPath": "C:\\Users\\mxsid\\Desktop\\Misc\\College\\Physics\\Physics_project\\WFC\\WaveFunctionCollapse.csproj",
         "packagesPath": "C:\\Users\\mxsid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mxsid\\Desktop\\WaveFunctionCollapse-master\\obj\\",
+        "outputPath": "C:\\Users\\mxsid\\Desktop\\Misc\\College\\Physics\\Physics_project\\WFC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mxsid\\AppData\\Roaming\\NuGet\\NuGet.Config"
